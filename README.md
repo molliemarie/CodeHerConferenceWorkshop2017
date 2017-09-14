@@ -13,7 +13,7 @@ PDF to be posted here (link to be added after workshop).
 Finished example will be located here (link to be added after workshop). Data used in the demo (as well as some code I used to clean and prepare it) is included in the [data directory](/data).
 
 ## Further Learnings / Fancy Examples
-further learnings and fancy examples located [here](d3examples.md)
+Further learnings and fancy examples located [here](d3examples.md)
 
 ## Helpful links used during workshop
  * [Margin Conventions](https://bl.ocks.org/mbostock/3019563)
