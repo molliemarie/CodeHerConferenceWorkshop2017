@@ -1,8 +1,8 @@
-# CodeHer Conference D3 Workshop
+# codeher conference D3 workshop
 
 This repo holds resources from an introductory talk on D3, given by Mollie Pettit, originally at Code(Her) Conference 2017.
 
-Connect with Mollie: [Twitter](https://twitter.com/MollzMP) // mollie dot marie at gmail dot com // [LinkedIn](https://www.linkedin.com/in/molliempettit/)
+Connect with Mollie: [twitter](https://twitter.com/MollzMP) // mollie dot marie at gmail dot com // [linkedin](https://www.linkedin.com/in/molliempettit/)
 
 ## slides
 
@@ -19,7 +19,7 @@ Resources referenced in the presentation:
 - [Dashing D3](https://www.dashingd3js.com) - site for learning D3.js - some videos are free, others you need a paid subscription
 
 
-## fancy Examples
+## fancy examples
 
 ### galleries, blogs, bl.ocks, and news sites
  * [D3 Examples gallery](https://github.com/mbostock/d3/wiki/Gallery)
