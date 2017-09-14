@@ -19,7 +19,7 @@ In case you're asking yourself who some of the people above are...
  * [FiveThirtyEight](http://fivethirtyeight.com/)
  * [The Upshot](https://www.nytimes.com/section/upshot)
  
-# Let's look at some Specific Examples
+# Let's look at some specific examples...
  * [Where We Came From and Where We Went, State by State](https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0)
  * [Mapping the Spread of Drought Across the U.S.](https://www.nytimes.com/interactive/2014/upshot/mapping-the-spread-of-drought-across-the-us.html?abt=0002&abg=0)
  * [Voting Habits of Americans Like You](https://www.nytimes.com/interactive/2016/06/10/upshot/voting-habits-turnout-partisanship.html)

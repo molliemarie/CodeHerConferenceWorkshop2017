@@ -15,7 +15,7 @@ Finished example will be located here (link to be added after workshop). Data us
 ## Further Learnings / Fancy Examples
 further learnings and fancy examples located [here](d3examples.md)
 
-## Helpful Links used During Workshop
+## Helpful links used during workshop
  * [Margin Conventions](https://bl.ocks.org/mbostock/3019563)
  * [Data Joins](https://bost.ocks.org/mike/join/)
  * [Chaining Syntax](http://alignedleft.com/tutorials/d3/chaining-methods)

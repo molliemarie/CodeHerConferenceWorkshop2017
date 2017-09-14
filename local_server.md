@@ -8,7 +8,7 @@
 	* For PCs, it's a bit more complicated. You'll need to either download python or XAMPP. You can checkout [this page](https://www.apachefriends.org/index.html)
 4. Go to your browser (Chrome is recommended), and go to this URL ```localhost:8000```
 
-#### Note on local servers: 
+#### Note on Local Servers: 
 
 In some cases, you can view local HTML files directly in your web browser. However, some browsers have restrictions that prevent them from loading local files via JavaScript, for security reasons. That means if your D3 code is trying to pull in any external datafiles (like CSVs or JSON), it will fail with no good explanation. This isn’t D3’s fault; it’s a browser feature that prevents loading of scripts and other external files from third-party, untrusted websites.
 
