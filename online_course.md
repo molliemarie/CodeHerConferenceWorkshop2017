@@ -3,12 +3,12 @@
 **Instructor:**	Paul Buffa
 **Course:**  	[Metis Data Visualization](http://www.thisismetis.com/data-visualization-d3-course)  
 **Location:**   Online  
-**Dates:**   	8/15/17 - 9/21/17  
+**Dates:**   	11/6/2017 - 12/13/2017
 
 **Creator** Based on course materials by [Kevin Quealy](https://twitter.com/kevinq)  
 **Instructor:** [Paul Buffa](https://www.linkedin.com/in/paul-buffa)  
 
-## About the Instructor
+## About the Instructor (Paul Buffa)
 
 * Data Visualization Engineer @ Capital One
 * Instructor at Metis
