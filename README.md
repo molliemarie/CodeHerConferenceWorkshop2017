@@ -12,14 +12,10 @@ PDF to be posted here (link to be added after workshop).
 
 Finished example will be located here (link to be added after workshop). Data used in the demo (as well as some code I used to clean and prepare it) is included in the [data directory](/data).
 
-## further learnings
-Resources referenced in the presentation:
+## further learnings / fancy examples
+
+### Books
 - [Interactive Data Visualization for the Web](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/ref=sr_1_fkmr0_1?ie=UTF8&qid=1505417902&sr=8-1-fkmr0&keywords=scott+murray+d3+v4) by Scott Murray, aka @alignedleft. Extensive and excellent book on D3 for beginners and intermediate users alike. Free with demos online, and available as ebook or dead trees.
-- [The blog of Mike Bostock](https://bost.ocks.org/mike/), creator of D3.
-- [Dashing D3](https://www.dashingd3js.com) - site for learning D3.js - some videos are free, others you need a paid subscription
-
-
-## fancy examples
 
 ### galleries, blogs, bl.ocks, and news sites
  * [D3 Examples gallery](https://github.com/mbostock/d3/wiki/Gallery)
