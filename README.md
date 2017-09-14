@@ -17,13 +17,16 @@ Finished example will be located here (link to be added after workshop). Data us
 ### Books
 - [Interactive Data Visualization for the Web](https://www.amazon.com/Interactive-Data-Visualization-Web-Introduction/dp/1491921285/ref=sr_1_fkmr0_1?ie=UTF8&qid=1505417902&sr=8-1-fkmr0&keywords=scott+murray+d3+v4) by Scott Murray, aka @alignedleft. Extensive and excellent book on D3 for beginners and intermediate users alike. Free with demos online, and available as ebook or dead trees.
 
-### galleries, blogs, bl.ocks, and news sites
+### galleries, blogs, bl.ocks
  * [D3 Examples gallery](https://github.com/mbostock/d3/wiki/Gallery)
  * [Mike Bostock's Interactive Essays](https://bost.ocks.org/mike/)
  * [Mike Bostock's Bl.ocks](https://bl.ocks.org/mbostock)
  * [Kevin Quealy's Recent work](http://kpq.github.io/)
- * [Kevin Quealy's New York Times work](https://www.nytimes.com/by/kevin-quealy)
+ * [Kevin Quealy's New York Times](https://www.nytimes.com/by/kevin-quealy)
  * [Amanda Cox's New York Times](https://www.nytimes.com/by/amanda-cox)
+
+news and essay sites that use D3 often
+ * [The Pudding](https://pudding.cool)
  * [FiveThirtyEight](http://fivethirtyeight.com/)
  * [The Upshot](https://www.nytimes.com/section/upshot)
  
