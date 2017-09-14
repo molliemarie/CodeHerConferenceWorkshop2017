@@ -1,4 +1,4 @@
-#CodeHer Conference D3 Workshop
+# CodeHer Conference D3 Workshop
 
 This repo holds resources from an introductory talk on D3, given by Mollie Pettit, originally at Code(Her) Conference 2017.
 
