@@ -24,16 +24,16 @@ Finished example will be located here (link to be added after workshop). Data us
  * [Kevin Quealy's Recent work](http://kpq.github.io/)
  * [Kevin Quealy's New York Times](https://www.nytimes.com/by/kevin-quealy)
  * [Amanda Cox's New York Times](https://www.nytimes.com/by/amanda-cox)
-
-news and essay sites that use D3 often
- * [The Pudding](https://pudding.cool)
- * [FiveThirtyEight](http://fivethirtyeight.com/)
- * [The Upshot](https://www.nytimes.com/section/upshot)
  
 In case you're asking yourself who some of the people above are...
  * Mike Bostock - former New York Times editor and creator of D3
  * Kevin Quealy - graphics editor and reporter at New York Times
  * Amanda Cox - editor of New York Time's The Upshot section
+
+### news and essay sites that use D3 often
+ * [The Pudding](https://pudding.cool)
+ * [FiveThirtyEight](http://fivethirtyeight.com/)
+ * [The Upshot](https://www.nytimes.com/section/upshot)
  
 ### let's look at some specific examples...
  * [Where We Came From and Where We Went, State by State](https://www.nytimes.com/interactive/2014/08/13/upshot/where-people-in-each-state-were-born.html?abt=0002&abg=0)
