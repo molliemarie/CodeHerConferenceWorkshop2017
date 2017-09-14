@@ -4,6 +4,9 @@ This repo holds resources from an introductory talk on D3, given by Mollie Petti
 
 Connect with Mollie: [twitter](https://twitter.com/MollzMP) // mollie dot marie at gmail dot com // [linkedin](https://www.linkedin.com/in/molliempettit/)
 
+## Upcoming Online D3.js Course
+Interested in learning more!? Metis will be offering an online Data Visualization using D3.js course starting November 6th, 2017. Read more about the course [here](online_course.md).
+
 ## Slides
 
 PDF to be posted here (link to be added after workshop).
@@ -13,6 +16,7 @@ PDF to be posted here (link to be added after workshop).
 Finished example will be located here (link to be added after workshop). Data used in the demo (as well as some code I used to clean and prepare it) is included in the [data directory](/data).
 
 ## What we'll create:
+Here is a photo of what our end result could look like. Once the workshop is over, I will provide the working, interactive example for you to play around with.
 ![example chart](plot.png)
 
 ## Further Learnings / Fancy Examples
@@ -28,9 +32,6 @@ Further learnings and fancy examples located [here](d3examples.md).
  * [Scatterplot example](https://bl.ocks.org/mbostock/3887118)
  * [D3 Path](https://github.com/d3/d3-path)
  * More on [D3 Path](https://www.dashingd3js.com/svg-paths-and-d3js)
-
-## Upcoming Online D3.js Course
-Interested in learning more!? Metis will be offering an online Data Visualization using D3.js course starting November 6th, 2017. Read more about the course [here](online_course.md).
 
 ## Get Started on your own Local Server
 During the workshop we used jsbin.com to make this plot and share the code with you all in real time. When you're doing this on your own, however, you'll want to start up your own local server. [Here](local_server.md) is a quick run-through on how to get a local server set up.
