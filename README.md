@@ -27,7 +27,7 @@ Further learnings and fancy examples located [here](d3examples.md).
  * More on [D3 Path](https://www.dashingd3js.com/svg-paths-and-d3js)
 
 ## D3.js Course
-Interested in learning more!? Metis will be offering an online Data Visualization using D3.js course starting November 6th, 2017. Read more about the course [here](online_course).
+Interested in learning more!? Metis will be offering an online Data Visualization using D3.js course starting November 6th, 2017. Read more about the course [here](online_course.md).
 
 ## Get Started on your own Local Server
 During the workshop we used jsbin.com to make this plot and share the code with you all in real time. When you're doing this on your own, however, you'll want to start up your own local server. [Here](local_server.md) is a quick run-through on how to get a local server set up.
