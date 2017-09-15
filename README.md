@@ -15,10 +15,6 @@ PDF to be posted here (link to be added after workshop).
 
 Finished example will be located here (link to be added after workshop). Data used in the demo (as well as some code I used to clean and prepare it) is included in the [data directory](/data).
 
-## What we'll create:
-Here is a photo of what our end result could look like. Once the workshop is over, I will provide the working, interactive example for you to play around with.
-![example chart](plot.png)
-
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
 
