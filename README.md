@@ -13,7 +13,7 @@ PDF to be posted here (link to be added after workshop).
 
 ## Demo
 
-Finished example will be located here (link to be added after workshop). Data used in the demo (as well as some code I used to clean and prepare it) is included in the [data directory](/data).
+Finished example will be located here (link to be added after workshop). Data used in the demo is included in the [data directory](/data).
 
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
