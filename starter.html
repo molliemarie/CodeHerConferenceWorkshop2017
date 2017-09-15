@@ -9,29 +9,6 @@ svg {
   border:1px solid #f0f;
 }
 
-.axis.y .tick {
-  stroke-width:0.5px;
-  stroke-dasharray: 2px 2px;
-  stroke-opacity: .5;
-}
-.axis path {
-  stroke: none;
-}
-.line {
-  stroke: black;
-  fill: none;
-  stroke-width: 1.5;
-}
-
-.title {
-  font: 20px sans-serif;
-}
-
-.line {
-  stroke: darkgray;
-  stroke-width: 3   ;
-}
-
 </style>
 
 <body>
@@ -44,13 +21,10 @@ svg {
 
 <script>
 
-var radius = 10
-var titleText = "UFO Sightings in "
-
 var parseTime = d3.timeParse("%m/%Y");
 
 var margin = {top: 40, right: 50, bottom: 30, left: 40};
-var width = 900 - margin.left - margin.right,
+var width = 700 - margin.left - margin.right,
     height = 500 - margin.top - margin.bottom;
 
 var svg = d3.select("body").append("svg")
@@ -58,8 +32,11 @@ var svg = d3.select("body").append("svg")
   .attr("height", height + margin.top + margin.bottom)
   .append("g")
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+  
+//   *************************
+//     NEW CODE GOES HERE
+//   *************************
 
-// d3.csv('ufo.csv', ready)
 d3.csv("https://gist.githubusercontent.com/molliemarie/97ddd571f90b11e0f846ae4557719b9f/raw/ee1e6a8d73ad182d0fe6f99f3362d3eef377b057/ufo.csv", ready)
 function ready(error, data) {
 
@@ -72,7 +49,10 @@ function ready(error, data) {
   });
 
   window.data = data;
-
-
+  
+  //   *************************
+//     NEW CODE GOES HERE
+//   *************************
+  
 }
 </script>
