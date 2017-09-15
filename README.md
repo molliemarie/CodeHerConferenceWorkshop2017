@@ -27,8 +27,7 @@ Further learnings and fancy examples [located here](d3examples.md).
  * [D3 Scales](http://alignedleft.com/tutorials/d3/scales)
  * [D3 Axes](http://alignedleft.com/tutorials/d3/axes)
  * [Scatterplot example](https://bl.ocks.org/mbostock/3887118)
- * [D3 Path](https://github.com/d3/d3-path)
- * More on [D3 Path](https://www.dashingd3js.com/svg-paths-and-d3js)
+ * [D3 Path](https://www.dashingd3js.com/svg-paths-and-d3js)
 
 ## Get Started on your own Local Server
 During the workshop we used jsbin.com to make this plot and share the code with you all in real time. When you're doing this on your own, however, you'll want to start up your own local server. [Here](local_server.md) is a quick run-through on how to get a local server set up.
