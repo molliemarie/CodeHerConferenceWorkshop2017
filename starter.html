@@ -25,9 +25,20 @@ var radius = 10;
 //   *************************
 
 
-// Add Margin Conventions 
+// Margin Conventions
+var margin = {top: 40, right: 50, bottom: 30, left: 40};
+var width = 900 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
+var svg = d3.select("body").append("svg")
+  .attr("width", width + margin.left + margin.right)
+  .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+// transforming data into json
 d3.csv("https://gist.githubusercontent.com/molliemarie/97ddd571f90b11e0f846ae4557719b9f/raw/ee1e6a8d73ad182d0fe6f99f3362d3eef377b057/ufo.csv", ready)
+
 function ready(error, data) {
 
   if (error) return console.warn(error);
