@@ -4,9 +4,11 @@
 <script src="https://d3js.org/d3.v4.min.js"></script>
 
 <style type="text/css">
+
 svg {
   border:1px solid #f0f;
 }
+
 </style>
 
 <body>
@@ -15,20 +17,15 @@ svg {
 <script>
 
 var parseTime = d3.timeParse("%m/%Y");
-
-var margin = {top: 40, right: 50, bottom: 30, left: 40};
-var width = 700 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
-
-var svg = d3.select("body").append("svg")
-  .attr("width", width + margin.left + margin.right)
-  .attr("height", height + margin.top + margin.bottom)
-  .append("g")
-  .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+var titleText = "UFO Sightings in";
+var radius = 10;
   
 //   *************************
 //     NEW CODE GOES HERE
 //   *************************
+
+
+// Add Margin Conventions 
 
 d3.csv("https://gist.githubusercontent.com/molliemarie/97ddd571f90b11e0f846ae4557719b9f/raw/ee1e6a8d73ad182d0fe6f99f3362d3eef377b057/ufo.csv", ready)
 function ready(error, data) {
