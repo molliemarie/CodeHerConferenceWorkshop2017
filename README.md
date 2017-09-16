@@ -13,7 +13,7 @@ PDF to be posted here (link to be added after workshop).
 
 ## Demo
 
-Follow along with demo [here](http://bit.ly/D3jsbin2).
+Those who are able to fire up a local server should do so in order to follow along. Additionally, I will also be posting code into [this jsfiddle](https://jsfiddle.net/#&togetherjs=zFIttuCoBx). Join to access code as it is updated.
 
 Finished example will be located here (link to be added after workshop). Data used in the demo is included in the [data directory](/data).
 
