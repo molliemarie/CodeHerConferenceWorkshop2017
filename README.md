@@ -20,6 +20,9 @@ Finished example will be located here (link to be added after workshop). Data us
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
 
+## Get Started on your own Local Server
+[Here](local_server.md) is a quick run-through on how to get a local server set up.
+
 ## Helpful links used during workshop
  * [Margin Conventions](https://bl.ocks.org/mbostock/3019563)
  * [Data Joins](https://bost.ocks.org/mike/join/)
@@ -30,6 +33,3 @@ Further learnings and fancy examples [located here](d3examples.md).
  * [D3 Axes](http://alignedleft.com/tutorials/d3/axes)
  * [Scatterplot example](https://bl.ocks.org/mbostock/3887118)
  * [D3 Path](https://www.dashingd3js.com/svg-paths-and-d3js)
-
-## Get Started on your own Local Server
-[Here](local_server.md) is a quick run-through on how to get a local server set up.
