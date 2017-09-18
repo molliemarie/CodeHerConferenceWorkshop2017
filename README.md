@@ -9,7 +9,7 @@ Interested in learning more!? Metis will be offering an online Data Visualizatio
 
 ## Slides
 
-PDF to be posted here (link to be added after workshop).
+PDF of slides [here](2017_09_CodeHerConference_D3Talk.pdf).
 
 ## Demo
 
