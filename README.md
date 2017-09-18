@@ -13,9 +13,9 @@ PDF to be posted here (link to be added after workshop).
 
 ## Demo
 
-Those who are able to fire up a local server should do so in order to follow along. Additionally, I will also be posting code into [this jsfiddle](https://jsfiddle.net/#&togetherjs=zFIttuCoBx). Join to access code as it is updated.
+The finished chart can be seen [in this bl.ocks](https://bl.ocks.org/molliemarie/3cba938e0485b105fdde92992a169f83).
 
-Finished example will be located here (link to be added after workshop). Data used in the demo is included in the [data directory](/data).
+Data used in the demo is included in the [data directory](/data).
 
 ## Further Learnings / Fancy Examples
 Further learnings and fancy examples [located here](d3examples.md).
